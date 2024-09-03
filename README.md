@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">Software Developer looking for new challenges</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT and PHP**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and PHP**
 
 - 📫 How to reach me **royaardenburg2@gmail.com**
 
